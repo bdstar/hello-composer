@@ -1,0 +1,14 @@
+{
+    "name": "optimusprime/hello-composer",
+    "description": "A simple hello world composer package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mamun",
+            "email": "md.mamun@datasoft-bd.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
